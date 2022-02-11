@@ -1,0 +1,12 @@
+Condition,Accuracy (%)
+"GloVe algorithm,
+Wikipedia text corpus",
+- Addition,61.2
+- Multiplication,60.7
+- Combination,62.6
+"Word2vec algorithm,
+Google News text corpus",
+- Addition,60.7
+- Multiplication,60.3
+- Combination,63.9
+Baseline*,33.8
